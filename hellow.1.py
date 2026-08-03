@@ -4,4 +4,5 @@ if age >=18 :
     print("you are  are eligible for vote..")
 
 else :
-    print("you are not eligible for vote")    
+    print("you are not eligible for vote")  
+  
