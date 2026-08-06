@@ -273,7 +273,7 @@ print("deleting key city from a dictionary",student)
 
 #Find the length of a dictionary.
 
-print("Lenhth of my sictionary is : ",len(student))
+print("Lenhth of my dictionary is : ",len(student))
 
 #Print all the keys
 
