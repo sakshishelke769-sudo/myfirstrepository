@@ -1,0 +1,11 @@
+student_id,name,gender,age,class,mathscore,sciscore,engscore,attendance,total,average,result
+1,Aasif Sharma,Male,17,A,99,90,55,85,244,81.33,Pass
+2,Vineet Patel,Male,18,B,52,81,72,85,205,68.33,Pass
+3,Aditya Singh,Male,17,C,90,83,49,72,221,73.67,Pass
+4,Arpita Mehta,Male,17,A,71,63,99,89,233,77.67,Pass
+5,Isha Kumar,Male,16,B,78,54,98,93,230,76.67,Pass
+6,Rohan Gupta,Male,16,A,88,98,45,93,231,77.0,Pass
+7,Anshul Pranav,Male,16,A,91,93,55,93,239,79.67,Pass
+8,Tushar Yadav,Male,17,A,100,71,68,70,239,79.67,Pass
+9,Kunal Verma,Male,16,B,71,71,42,93,184,61.33,Pass
+10,Riya Singh,Female,17,A,90,78,64,88,220,73.33,Pass
